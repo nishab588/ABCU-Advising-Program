@@ -25,6 +25,6 @@ Along the way, I encountered roadblocks, especially when implementing more compl
 I tend to avoid planning because I struggle with flowcharts and pseudocode. Completing this assignment required me to write pseudocode each week leading up to it, and that consistent practice forced me to slow down and think through the logic before writing code. As a result, writing the actual program became much easier and more organized. I gained a lot more confidence in my ability to write effective pseudocode, which ultimately improved my coding efficiency and overall problem-solving process.
 
 
-6. ow has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+6. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
 Writing pseudocode has always been a struggle point for me, but the amount of structured planning required in this course helped me grow significantly in that area. By investing more time in the planning stage, I found that my final code was cleaner, more organized, and easier to debug. This experience showed me that thoughtful design and preparation are essential steps in developing software that is maintainable, readable, and adaptable over time.
